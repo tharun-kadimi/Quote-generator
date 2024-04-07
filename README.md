@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 
 Copy code
-git clone https://github.com/your-username/random-quote-generator.git
+git clone https://github.com/tharun-kadimi/Quote-generator.git
 Navigate to the project directory:
 
 Copy code
